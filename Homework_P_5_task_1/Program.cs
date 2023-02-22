@@ -1,10 +1,14 @@
-﻿namespace Homework_P_5_task_1
+﻿using System.Xml;
+
+namespace Homework_P_5_task_1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var doc = new XmlDocument();
+            doc.Load("TelephoneBook.xml");
+            Console.WriteLine(doc.InnerXml);
         }
     }
 }
