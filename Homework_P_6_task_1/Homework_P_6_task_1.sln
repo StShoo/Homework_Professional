@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_P_6_task_1", "Home
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConverter", "..\TemperatureConverter\TemperatureConverter.csproj", "{00A7F49B-25E6-49BA-9D80-27A5072879ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_P_6_task_2", "..\Homework_P_6_task_3\Homework_P_6_task_2.csproj", "{E13DFAB7-32E5-4813-9869-11A334BB8CF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{00A7F49B-25E6-49BA-9D80-27A5072879ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00A7F49B-25E6-49BA-9D80-27A5072879ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00A7F49B-25E6-49BA-9D80-27A5072879ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13DFAB7-32E5-4813-9869-11A334BB8CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13DFAB7-32E5-4813-9869-11A334BB8CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13DFAB7-32E5-4813-9869-11A334BB8CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13DFAB7-32E5-4813-9869-11A334BB8CF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
